@@ -1,2 +1,2 @@
-# Demystifying complex patterns: Clustering vs Topological Data Analysis (TDA)
-Scenario based comparison study on TDA vs Clustering
+# Demystifying complex patterns: Topological Data Analysis (TDA) vs Clustering
+Scenario based comparison study 
